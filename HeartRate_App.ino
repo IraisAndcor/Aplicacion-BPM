@@ -85,10 +85,12 @@ void loop()
     }
   
   }
+  
   //bluetooth.print(", BPM=");
   if (beatsPerMinute > 250) {
     beatsPerMinute = 250;
   }
+  
   bluetooth.println(beatsPerMinute);
   //bluetooth.print(", Avg BPM=");
   //bluetooth.print(beatAvg);
@@ -100,7 +102,6 @@ void loop()
 //  Serial.println(beatsPerMinute);
   //Serial.print(", Avg BPM=");
   //Serial.print(beatAvg);
-
 
 //  if (irValue < 50000)
     //bluetooth.print(" No finger?");
