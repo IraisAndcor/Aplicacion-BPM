@@ -7,6 +7,8 @@ El Sensor de Pulso MAX30102 es útil para intégralo en proyectos donde se mida 
 * Fuente de luz: Una longitud de onda especifica de luz emitida por un diodo para medir la oxihemoglobina (HbO2) y la hemoglobina (Hb) de la sangre arterial.
 * La transmitancia se convierte en señal eléctrica: El cambio en el volumen de las pulsaciones arteriales provoca que la transmitancia de la luz cambie. En este momento la luz reflejada por el tejido humano es recibida por el transductor fotoeléctrico, transformándola en una señal eléctrica.
 
+  
+
 *****ARDUINO******
 
 Este código está diseñado para medir el ritmo cardíaco utilizando el sensor MAX30105, y luego enviar los datos del ritmo cardíaco a través de Bluetooth usando un módulo Bluetooth conectado a los pines 2 y 3 del Arduino.
