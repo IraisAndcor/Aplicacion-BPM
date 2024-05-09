@@ -7,6 +7,22 @@ El Sensor de Pulso MAX30102 es útil para intégralo en proyectos donde se mida 
 * Fuente de luz: Una longitud de onda especifica de luz emitida por un diodo para medir la oxihemoglobina (HbO2) y la hemoglobina (Hb) de la sangre arterial.
 * La transmitancia se convierte en señal eléctrica: El cambio en el volumen de las pulsaciones arteriales provoca que la transmitancia de la luz cambie. En este momento la luz reflejada por el tejido humano es recibida por el transductor fotoeléctrico, transformándola en una señal eléctrica.
 
+  El sensor MAX30102 es capaz de medir y detectar varias variables relacionadas con el pulso y la frecuencia cardíaca, incluyendo:
+
+1. **Frecuencia cardíaca (Frecuencia cardiaca)**: La frecuencia cardíaca es la cantidad de veces que el corazón late en un minuto. El sensor MAX30102 puede medir esta variable con una precisión de varios decimales.
+
+2. **Saturación de oxígeno en la sangre (SpO2)**: La saturación de oxígeno en la sangre es la cantidad de oxígeno que se encuentra en la sangre arterial. El sensor MAX30102 puede medir esta variable, lo que es útil para monitorear el estado de salud de una persona.
+
+3. **Pulso**: El sensor MAX30102 puede detectar y medir el pulso, que es la cantidad de veces que el corazón late en un minuto.
+
+4. **Oxihemoglobina (HbO2)**: La oxihemoglobina es una forma de hemoglobina que contiene oxígeno. El sensor MAX30102 puede medir los niveles de oxihemoglobina en la sangre arterial.
+
+5. **Hemoglobina (Hb)**: La hemoglobina es una proteína en la sangre que transporta oxígeno. El sensor MAX30102 puede medir los niveles de hemoglobina en la sangre arterial.
+
+6. **Transmitancia de la luz**: La transmitancia de la luz es la cantidad de luz que pasa a través del tejido humano. El sensor MAX30102 utiliza esta variable para medir el pulso y la saturación de oxígeno en la sangre.
+
+Estas variables son fundamentales para monitorear el estado de salud de una persona y detectar posibles problemas de salud, como anemia o problemas respiratorios.
+
   
 
 *****ARDUINO******
