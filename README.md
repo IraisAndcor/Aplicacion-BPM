@@ -23,8 +23,7 @@ El Sensor de Pulso MAX30102 es útil para intégralo en proyectos donde se mida 
 
 Estas variables son fundamentales para monitorear el estado de salud de una persona y detectar posibles problemas de salud, como anemia o problemas respiratorios.
 
-En este caso, la unica los valores que se  pretenden muestrar corresponden a las pulsaciones por minuto, siendo esta la única variable a analizar
-
+En este caso, la unica variable que se pretende mostrar y analizar corresponde a las pulsaciones por minuto.
 *****ARDUINO******
 
 Este código está diseñado para medir el ritmo cardíaco utilizando el sensor MAX30105, y luego enviar los datos del ritmo cardíaco a través de Bluetooth usando un módulo Bluetooth conectado a los pines 2 y 3 del Arduino.
