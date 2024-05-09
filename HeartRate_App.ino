@@ -92,7 +92,8 @@ void loop()
   bluetooth.println(beatsPerMinute);
   //bluetooth.print(", Avg BPM=");
   //bluetooth.print(beatAvg);
-  
+
+  //Uncomment this section to view in arduino serial
   //Serial.print("IR=");
   //Serial.print(irValue);
   //Serial.print(", BPM=");
