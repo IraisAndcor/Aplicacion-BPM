@@ -1,6 +1,6 @@
 *****SENSOR EMPLEADO******
 
-El sensor  de pulso MAX30102 es dispositivo que integra un pulsioxímetro y  monitor de frecuencia cardiaca. Cuenta con infrarrojo, detectores fotoeléctricos, dispositivos ópticos y circuitos electrónicos de baja frecuencia con supresión de luz ambiental. 
+El sensor  de pulso MAX30102 es dispositivo que integra un pulsioxímetro y  monitor de frecuencia cardiaca. Cuenta con infrarrojo, detectores fotoeléctricos, dispositivos ópticos y circuitos electrónicos de baja frecuencia con supresión de luz ambiental.
 
 El Sensor de Pulso MAX30102 es útil para intégralo en proyectos donde se mida el pulso y pulso cardiaco , ya que funciona de la siguiente manera:
 * Por Método de foto disolución: La medida del pulso y saturación de oxigeno en la sangre es realizado por medio del tejido humano que provoca diferentes transmitancias en la luz cuando los vasos sanguíneos laten.
