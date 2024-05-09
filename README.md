@@ -23,7 +23,7 @@ El Sensor de Pulso MAX30102 es útil para intégralo en proyectos donde se mida 
 
 Estas variables son fundamentales para monitorear el estado de salud de una persona y detectar posibles problemas de salud, como anemia o problemas respiratorios.
 
-  
+En este caso, la unica los valores que se  pretenden muestrar corresponden a las pulsaciones por minuto, siendo esta la única variable a analizar
 
 *****ARDUINO******
 
